@@ -1,0 +1,2 @@
+PKG_CPPFLAGS=-I../inst/includes/ -I/usr/include/
+PKG_LIBS= -lboost_thread -lboost_system -L/usr/include/
